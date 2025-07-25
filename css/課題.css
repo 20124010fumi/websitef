@@ -1,0 +1,24 @@
+body{
+            margin: 0;
+            padding: 0;
+            font-family: 'Noto Sans JP', sans-serif;
+            background: linear-gradient(135deg, #0d0d0d, #1a1a2e);
+            color: #f0f0f0;
+        }
+h2   {
+            font-family: 'Orbitron', sans-serif;
+            color: #c77dff;
+            border-bottom: 2px solid #6a00ff;
+            padding-bottom: 5px;
+        }
+.menu a {
+            font-family: 'Orbitron', sans-serif;
+            text-decoration: none;
+            color: #a0a0ff;
+            background: #2e2e4d;
+            padding: 10px 15px;
+            border-radius: 10px;
+            margin-right: 10px;
+            display: inline-block;
+            transition: 0.3s;
+        }
